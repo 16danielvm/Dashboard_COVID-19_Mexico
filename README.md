@@ -12,7 +12,7 @@ Este dashboard presenta un análisis actualizado de los casos confirmados de COV
 
 - Conteo Diario de Casos: Gráfico que presenta la evolución de los casos confirmados/negativos/sospechosos/defunciones a lo largo del tiempo.
 
-- Distribución por Rango de Edad: Gráfico que agrupa los casos en intervalos de 5 años, desde 0-4 hasta 110-114 años.
+- Distribución por Rango de Edad: Gráfico que agrupa los casos en intervalos de 10 años, desde 0-9 hasta 100 años en adelante.
 
 ## Fuentes de Datos
 
