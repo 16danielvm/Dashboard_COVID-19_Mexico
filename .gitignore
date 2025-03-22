@@ -10,3 +10,6 @@ CargarDatos.ipynb
 data/Nuevos/COVID19MEXICODB
 credencialesaws.txt
 CredencialesPowerBitxt.txt
+data/Nuevos/COVID19MEXICO20_23.parquet
+data/Nuevos/COVID19MEXICO20_25.parquet
+data/Nuevos/COVID19MEXICO20_25labeled.parquet
